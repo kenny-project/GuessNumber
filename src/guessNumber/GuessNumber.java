@@ -12,6 +12,6 @@ public class GuessNumber {
         if(userInput.equals(randomNumber)){
             return "4a0b";
         }
-        return "3a0b";
+        return "3a0b1";
     }
 }
